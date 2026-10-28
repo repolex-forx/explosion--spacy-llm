@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-llm",
+  "versions": [
+    {
+      "commit": "c62a9614f4b716e5c04f3c16aed7bcbecfb0189a",
+      "tag": "",
+      "parsed_at": "2026-10-28T12:13:07.728483+00:00"
+    }
+  ]
+}

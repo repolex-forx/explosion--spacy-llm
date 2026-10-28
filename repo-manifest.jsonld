@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacy-llm/commit/c62a9614f4b716e5c04f3c16aed7bcbecfb0189a",
       "git:hexsha": "c62a9614f4b716e5c04f3c16aed7bcbecfb0189a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T12:13:07.727892+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/spacy-llm/commit/dff288da3232c87fea58215d383f26589f57bb1b",
